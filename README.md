@@ -1,5 +1,10 @@
+
+![hello_world-850x512](https://user-images.githubusercontent.com/112142953/191135831-e5a95ae3-131e-4521-8d95-4e953b1688b2.png)
+
+
 <h1 align="center">Hola 👋 soy Jhon Escalante</h1>
 <h3 align="center">Estudiante de Informática en la UMET</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonescalant&label=Profile%20views&color=0e75b6&style=flat" alt="jhonescalant" /> </p>
 
