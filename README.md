@@ -16,7 +16,7 @@
 <br><br>
 - :school:Soy estudiante de 3 año de la [Universidad Metropolitana para la Educación y el Trabajo](https://umet.edu.ar) de la carrera [Licenciatura de informatica](https://umet.edu.ar/course/informatica/).
 - :computer: Actualmente, estoy ampliando mis habilidades en `Back-End` con un curso en One Oracle Next Education .
-- 🧑‍🎓 Curso ingles en [Laboratorio de idiomas de la uba]{https://www.idiomas.filo.uba.ar/} estoy en el Nivel 3 (A1).
+- 🧑‍🎓: Curso ingles en [Laboratorio de idiomas de la uba](https://www.idiomas.filo.uba.ar/) estoy en el Nivel 3 (A1).
 - 🤖: Actualmente tengo conocimiento en las leguanjes `HTML`,`Css`,`JavaSript`,`C#`, y como bases de datos `Sql Server`
 - :nerd_face: Siempre aprendiendo cosas nuevas.
 - 🗣️: Para contactarme les dejo mi [Linkedin ](https://www.linkedin.com/in/jhon-escalante-733320248/)
