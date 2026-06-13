@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hola soy Jhon Escalante</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Estudiante de Tecnicatura de desarrollo de software</h3>
+<h3 align="center">Estudiante de Tecnicatura de Desarrollo de Software</h3>
 
 <br>
 
@@ -14,8 +14,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school:Soy estudiante de 3 año de la [Universidad Metropolitana para la Educación y el Trabajo](https://umet.edu.ar) de la carrera [Licenciatura de informatica](https://umet.edu.ar/course/informatica/).
-- :computer: Actualmente, estoy ampliando mis habilidades en `Back-End` con un curso en One Oracle Next Education .
+- :school:Soy estudiante de 2 año de la carrera [Tecnicatura de Desarrollo de Software](https://ifts11.edu.ar/carreras/plan-de-desarrollo-de-software/#page-content).
+- :computer: Actualmente, estoy curasondo  `Ingieneria de Sistema` en la Universidad Tecnologica Nacional (UTN) .
 - 🧑‍🎓: Curso ingles en [Laboratorio de idiomas de la uba](https://www.idiomas.filo.uba.ar/) estoy en el Nivel 3 (A1).
 - 🤖: Actualmente tengo conocimiento en las leguanjes `HTML`,`Css`,`JavaSript`,`C#`, y como bases de datos `Sql Server`
 - :nerd_face: Siempre aprendiendo cosas nuevas.
