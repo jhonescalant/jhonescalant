@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hola soy Jhon Escalante</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Estudiante de la carrera Licenciatura de Informática en la UMET</h3>
+<h3 align="center">Estudiante de Tecnicatura de desarrollo de software</h3>
 
 <br>
 
